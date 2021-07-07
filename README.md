@@ -36,7 +36,7 @@
 
 ### 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316ga4ifzd4pelnyejaffepokevq&cover_image=true&theme=default)]
+[![Spotify](https://readme-github-music-ndd1h3u71-vitstudio.vercel.app/api/spotify)](https://open.spotify.com/user/316ga4ifzd4pelnyejaffepokevq)
 
 
 ### :dart: Weekly Fuck The Code
