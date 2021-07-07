@@ -36,7 +36,7 @@
 
 ### 🎧 Spotify Playing
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="davidbisky Spotify Playing" width="350" />](https://open.spotify.com/user/316ga4ifzd4pelnyejaffepokevq)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=316ga4ifzd4pelnyejaffepokevq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=316ga4ifzd4pelnyejaffepokevq&cover_image=true&theme=compact)]]
 
 
 ### :dart: Weekly Fuck The Code
