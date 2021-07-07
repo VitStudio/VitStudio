@@ -36,7 +36,7 @@
 
 ### 🎧 Spotify Playing
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="davidbisky Spotify Playing" width="350" />](https://open.spotify.com/user/g9mmploi6sdrg6sk0xosqex2u)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="davidbisky Spotify Playing" width="350" />](https://open.spotify.com/user/316ga4ifzd4pelnyejaffepokevq)
 
 
 ### :dart: Weekly Fuck The Code
@@ -44,6 +44,7 @@
 <!--START_SECTION:waka-->
 ```text
 JSON   14 mins         █████████████████████████   100.00 % 
+Vuejs  1  hours        ████████████████████████    91.6%
 ```
 <!--END_SECTION:waka-->
 
