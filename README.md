@@ -18,8 +18,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=VitStudio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![](https://raw.githubusercontent.com/VitStudio/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/VitStudio/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/VitStudio/VitStudio_stats/8e81fac54dab9454d38c065acd6180ed54905238/generated/overview.svg)
+![](https://raw.githubusercontent.com/VitStudio/VitStudio_stats/8e81fac54dab9454d38c065acd6180ed54905238/generated/languages.svg)
 
 
 <!--<details open>
