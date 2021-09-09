@@ -14,9 +14,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitstudio" alt="vitstudio" /></a> </p>
 
-- 🔭 I’m currently working on **5Weather**
+- 🔭 I’m currently working on **5Day (Until Complete will release to github)**
 
-- 🌱 I’m currently learning **Frameworks, C#, Vuejs, Sass,...**
+- 🌱 I’m currently learning **Frameworks, C#, Vuejs, Sass,... Unity espects**
 
 - 👯 I’m looking to collaborate on [BeWithUs](https://github.com/users/VitStudio/projects/2)
 
